@@ -47,6 +47,7 @@ Architecture de sécurité multi-vendor complète simulant un environnement d'en
 ## <img src="https://img.icons8.com/ios-filled/50/228BE6/crane.png" width="30" /> Architecture Déployée
 
 [![Documentation PDF](https://img.shields.io/badge/Documentation-Consulter%20le%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./lab-documentation/multi-vendor-firewall-ips-splunk-architecture.pdf)
+![Architecture Multivendor](./lab-documentation/schema-multivendor.png)
 
 ## 🎬 Démonstrations Vidéo
 
