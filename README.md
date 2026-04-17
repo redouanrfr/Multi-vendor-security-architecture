@@ -44,9 +44,9 @@ Architecture de sécurité multi-vendor complète simulant un environnement d'en
 - **Cisco ASA IPtracking SLA** 
 - **GNS3 Lab Environment** 6 sites
 
-## 📚 Documentation
-- [📋 Plan d'adressage IP complet](lab-documentation/addressing_plan.md)
-- [📄 Diagramme réseau (PDF)](lab-documentation/multi-vendor-firewall-ips-splunk-architecture.pdf)
+## <img src="https://img.icons8.com/ios-filled/50/228BE6/crane.png" width="30" /> Architecture Déployée
+
+[![Documentation PDF](https://img.shields.io/badge/Documentation-Consulter%20le%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./lab-documentation/multi-vendor-firewall-ips-splunk-architecture.pdf)
 
 ## 🎬 Démonstrations Vidéo
 
